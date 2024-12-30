@@ -1,0 +1,5 @@
+ultralytics
+pytorch
+opencv-python
+Pillow
+PyYAML
